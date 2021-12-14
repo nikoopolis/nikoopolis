@@ -2,10 +2,11 @@
 
 hi im niko
 
-pronouns he/him
+### pronouns he/him
 
 
-languages (in order of fluency) -> en // fr // es // el // zh
+### languages (in order of fluency) 
+en // fr // es // el // zh
 
 
 ### interested in 
