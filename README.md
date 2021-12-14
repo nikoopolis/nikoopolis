@@ -1,9 +1,11 @@
 ### beep beep 
 
 hi im niko
+
 pronouns he/him
 
 languages (order of fluency)
+
 en // fr // es // el // zh
 
 interested in nlp, computational linguistics, speech science, and ai
