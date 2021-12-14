@@ -2,7 +2,8 @@
 
 hi im niko
 
-### pronouns he/him
+### pronouns 
+he/him
 
 
 ### languages (in order of fluency) 
@@ -10,7 +11,7 @@ en // fr // es // el // zh
 
 
 ### interested in 
-nlp, computational linguistics, speech science, and ai
+nlp, computational linguistics, speech science, and ai 🤖🗣
 
 <!--
 **nikoopolis/nikoopolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
