@@ -6,7 +6,7 @@ hi im niko
 he/him
 
 
-### languages (in order of fluency) 
+### languages i like rn
 en // fr // es // el // zh
 
 
