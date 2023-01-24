@@ -1,17 +1,9 @@
-# beep beep 
+# hello my name is niko
+pronouns he/him
 
-hi im niko
+b2 french, currently studing in paris
 
-### pronouns 
-he/him
-
-
-### languages i like rn
-en // fr // es // el // zh
-
-
-### interested in 
-nlp, computational linguistics, speech science, and ai 🤖🗣
+i'm interested in nlp, computational linguistics, speech science, and ai 🤖🗣
 
 <!--
 **nikoopolis/nikoopolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
